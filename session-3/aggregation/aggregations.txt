@@ -1,0 +1,5 @@
+1. sum() : Adding all the values
+2. mean() : Find out the average
+3. Count() : Find out Non-NaN values
+4. min() : Find out minimum value
+5. max() : Find out maximum value
